@@ -1,4 +1,6 @@
-# MyGraduation-
-接收GPS数据+百度地图定位+导航+语音唤醒识别合成+UNIT
+### SIM088_GPS
+* 硬件系统： STM32F103 + SIM08 GPS模块
+* 功能：获取并发送GPS数据
 
-APP代码：  https://github.com/CharyPro/GraduationProject
+### APP
+对应的接收端APP:  https://github.com/CharyPro/GraduationProject
