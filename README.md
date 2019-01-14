@@ -3,4 +3,4 @@
 * 功能：获取并发送GPS数据
 
 ### APP
-对应的接收端APP:  https://github.com/CharyPro/GraduationProject
+对应的接收端APP:  https://github.com/CharyPro/VehicleNavigation
